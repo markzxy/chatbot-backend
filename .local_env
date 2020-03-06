@@ -1,0 +1,2 @@
+MONGODB_URI=mongodb://localhost:27017/admin
+GOOGLE_APPLICATION_CREDENTIALS=/Users/zacklocx/Documents/chatbot/backend/config/key.json
